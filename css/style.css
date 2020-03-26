@@ -1480,7 +1480,7 @@
 									transition: 0.7s;
 								}
 								
-								@media (max-device-width: 576px) {
+								@media (max-width: 576px) {
 									body {
 										width: auto;
 									}
